@@ -10,6 +10,11 @@ port(
 	  c:  out std_logic );
 end entity;
 	  
+architecture test of arith_adder_signed is
+begin
+    S <= A + B;
+end test;
+	  
 	  
 architecture struct of half_adder is
 begin
