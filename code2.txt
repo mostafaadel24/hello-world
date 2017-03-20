@@ -14,7 +14,12 @@ architecture test of arith_adder_signed is
 begin
     S <= A + B;
 end test;
-	  
+	  kktdfg
+hgfhgf
+rfh
+gfh
+dgd
+hdhgd
 	  
 architecture struct of half_adder is
 begin
