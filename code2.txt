@@ -9,6 +9,11 @@ port(
 	  s: out std_logic;
 	  c:  out std_logic );
 end entity;
+hgh
+fgfdb
+gdfgd
+hdhd
+hdhd
 	  
 	  
 architecture struct of half_adder is
